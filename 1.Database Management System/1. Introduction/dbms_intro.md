@@ -11,7 +11,8 @@ Popular examples of database management system:
 # Evolution of DBMS
 ## File based system 
 File System manages data using files in hard disk. Here, user code directly interacts with the file system of the OS. 
-Problems faced: 
+
+Challenges faced in file based system: 
 - Redundancy of data
 - Inconsistency of data
 - Difficult to access data
